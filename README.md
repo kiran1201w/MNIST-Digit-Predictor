@@ -117,7 +117,7 @@ Predicted Label: 5
 ---
 
 ## 👤 Author
-**Your Name**  
+**Kiran Sakthivel**  
 GitHub: [@kiran1201w](https://github.com/kiran1201w)
 
 ---
